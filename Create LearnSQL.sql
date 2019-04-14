@@ -1,7 +1,3 @@
-Create Database LearnSQL
-
-GO
-
 USE [LearnSQL]
 GO
 /****** Object:  Table [dbo].[Drinks]    Script Date: 27/03/2019 22:21:00 ******/
